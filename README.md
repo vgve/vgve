@@ -7,24 +7,15 @@
 - 🚀 Constantly learning new things
 - 🐶 My pet-project: [Dialectica](https://github.com/vicgcode/Dialectica)
 
-<picture>
-      <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-</picture>&nbsp;
-<picture>
-      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-6B57FF?&style=for-the-badge&logo=kotlin&logoColor=white">
-</picture>&nbsp;
-<picture>
-      <img alt="Kotlin Multiplatform" src="https://img.shields.io/badge/Kotlin_Multiplatform-6B57FF?&style=for-the-badge&logo=kotlin-multiplatform&logoColor=white">
-</picture>&nbsp;
-<picture>
-      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</picture>&nbsp;
-<picture>
-      <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-</picture>&nbsp;
-<picture>
-      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
-</picture>
+<picture> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> </picture>
+&nbsp;
+<picture> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-6B57FF?&style=for-the-badge&logo=kotlin&logoColor=white"> </picture>
+&nbsp;
+<picture> <img alt="Kotlin Multiplatform" src="https://img.shields.io/badge/Kotlin_Multiplatform-6B57FF?&style=for-the-badge&logo=kotlin-multiplatform&logoColor=white"> </picture>
+&nbsp;
+<picture> <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> </picture>
+&nbsp;
+<picture> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"> </picture>
 
 ## 🤝 Connect with me
 <p align="left">
