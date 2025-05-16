@@ -8,25 +8,24 @@
 - 🐶 My pet-project: [Dialectica](https://github.com/vicgcode/Dialectica)
 
 <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Android-2e3440.svg?&style=for-the-badge&logo=Android&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Android-eceff4.svg?&style=for-the-badge&logo=Android&logoColor=white">
-      <img alt="Android" src="https://img.shields.io/badge/Android-eceff4.svg?&style=for-the-badge&logo=Android&logoColor=white">
+      <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </picture>&nbsp;
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kotlin-2e3440.svg?&style=for-the-badge&logo=kotlin&logoColor=7F52FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kotlin-eceff4.svg?&style=for-the-badge&logo=kotlin&logoColor=7F52FF">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-2e3440.svg?&style=for-the-badge&logo=kotlin&logoColor=7F52FF">
-</picture>
-
-***
-
+      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-6B57FF?&style=for-the-badge&logo=kotlin&logoColor=white">
+</picture>&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vicgcode&theme=nord_dark">
-  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vicgcode&theme=nord_bright">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vicgcode&theme=nord_dark">
+      <img alt="Kotlin Multiplatform" src="https://img.shields.io/badge/Kotlin_Multiplatform-6B57FF?&style=for-the-badge&logo=kotlin-multiplatform&logoColor=white">
+</picture>&nbsp;
+<picture>
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</picture>&nbsp;
+<picture>
+      <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+</picture>&nbsp;
+<picture>
+      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
 </picture>
 
-***
 ## 🤝 Connect with me
 <p align="left">
   <a href="mailto:it.victoriagrinberg@gmail.com">
