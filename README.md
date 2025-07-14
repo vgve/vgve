@@ -1,21 +1,10 @@
-# Welcome 👋 I'm Victoria Grinberg
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvicgcode%2F&label=Visitors&labelColor=%c9d1d9&countColor=%23263759&labelStyle=upper)
 ## I'm an Android Developer
 
-- 💪 I like to write code and have been doing it for 2+ years
+- 💪 I like to write code and have been doing it for 3+ years
+- 💻 Native Android, Kotlin Multiplatform, Compose Multiplatform, Compose Web
 - 🚀 Constantly learning new things
-- 🐶 My pet-project: [Dialectica](https://github.com/vicgcode/Dialectica)
-
-<picture> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> </picture>
-&nbsp;
-<picture> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-6B57FF?&style=for-the-badge&logo=kotlin&logoColor=white"> </picture>
-&nbsp;
-<picture> <img alt="Kotlin Multiplatform" src="https://img.shields.io/badge/Kotlin_Multiplatform-6B57FF?&style=for-the-badge&logo=kotlin-multiplatform&logoColor=white"> </picture>
-&nbsp;
-<picture> <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> </picture>
-&nbsp;
-<picture> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"> </picture>
+- 🔗 Check out my coding skills in action: test assigment for a sports tech company: [KOLSA](https://github.com/vgve/KOLSAtest)
 
 ## 🤝 Connect with me
 <p align="left">
