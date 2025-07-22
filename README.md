@@ -12,4 +12,4 @@
 | Project | Description | Availability |
 |---------|-------------|--------------|
 | [**KOLSA**](https://github.com/vgve/KOLSAtest) | Android application for a sports tech company. MVI, Fragments, Coroutines & Flow, Retrofit, Dagger Hilt, ExoPlayer, Clean Architecture | Code Repository |
-| [**Dialectica**](https://play.google.com/store/apps/details?id=com.vicgcode.dialectica) | Published pet-project on Google Play | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play) |
+| <a href="https://play.google.com/store/apps/details?id=com.vicgcode.dialectica" target="_blank">**Dialectica**</a> | Published pet-project on Google Play | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play) |
