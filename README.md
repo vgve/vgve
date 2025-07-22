@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**vgve/vgve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvgve%2F&label=Visitors&labelColor=%c9d1d9&countColor=%23263759&labelStyle=upper)
+## I'm an Android Developer
 
-Here are some ideas to get you started:
+- ⚙ **Native Android** & **Kotlin Multiplatform** development
+- 🎨 Modern UI with **Jetpack Compose**
+- 🚀 Cross-platform solutions using **Kotlin Multiplatform**, **Compose Multiplatform**, **Compose for Web**
+- 🔍 Continuous learning of new technologies and best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+| Project | Description | Availability |
+|---------|-------------|--------------|
+| [**KOLSA**](https://github.com/vgve/KOLSAtest) | Android application for a sports tech company. MVI, Fragments, Coroutines & Flow, Retrofit, Dagger Hilt, ExoPlayer, Clean Architecture | Code Repository |
+| [**Dialectica**](https://play.google.com/store/apps/details?id=com.vicgcode.dialectica) | Published pet-project on Google Play | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play) |
