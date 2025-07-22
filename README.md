@@ -3,8 +3,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvgve%2F&label=Visitors&labelColor=%c9d1d9&countColor=%23263759&labelStyle=upper)
 ## I'm an Android Developer
 
-- ⚙ **Native Android** & **Kotlin Multiplatform** development
-- 🎨 Modern UI with **Jetpack Compose**
+- ⚙ **Native Android** development
+- 🎨 Modern UI with **Jetpack Compose** & **View-based**
 - 🚀 Cross-platform solutions using **Kotlin Multiplatform**, **Compose Multiplatform**, **Compose for Web**
 - 🔍 Continuous learning of new technologies and best practices
 
